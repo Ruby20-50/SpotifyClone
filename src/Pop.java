@@ -4,7 +4,7 @@ public class Pop extends Song{
     }
     @Override
     public String describeSong() {
-        return "RockSong: " + title + " by " + artist + ". Duration: " + duration + " seconds";
+        return "Pop Song: " + title + " by " + artist + ". Duration: " + duration + " seconds";
     }
 
 }

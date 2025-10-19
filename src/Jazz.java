@@ -4,6 +4,6 @@ public class Jazz extends Song{
     }
     @Override
     public String describeSong() {
-        return "RockSong: " + title + " by " + artist + ". Duration: " + duration + " seconds";
+        return "Jazz song: " + title + " by " + artist + ". Duration: " + duration + " seconds";
     }
 }
